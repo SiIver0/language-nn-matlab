@@ -18,6 +18,8 @@ word=lower(word);
 y=length(word);
 inp=zeros(270,1);
 
+% sorry for the bad method...
+
 for i=1:1:y
     switch word(i)
         case 'a'
